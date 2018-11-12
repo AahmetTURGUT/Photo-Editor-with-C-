@@ -1,1 +1,1 @@
-# Photo-Editor-with-C-
+# Photo-Editor-with-C
