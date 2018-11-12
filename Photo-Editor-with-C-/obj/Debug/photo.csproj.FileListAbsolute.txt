@@ -1,0 +1,9 @@
+C:\Users\Ahmet\Desktop\görüntü işleme\photo\obj\Debug\photo.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\görüntü işleme\photo\obj\Debug\photo.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\görüntü işleme\photo\obj\Debug\photo.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Desktop\görüntü işleme\photo\bin\Debug\photo.exe.config
+C:\Users\Ahmet\Desktop\görüntü işleme\photo\bin\Debug\photo.exe
+C:\Users\Ahmet\Desktop\görüntü işleme\photo\bin\Debug\photo.pdb
+C:\Users\Ahmet\Desktop\görüntü işleme\photo\obj\Debug\photo.exe
+C:\Users\Ahmet\Desktop\görüntü işleme\photo\obj\Debug\photo.pdb
+C:\Users\Ahmet\Desktop\görüntü işleme\photo\obj\Debug\photo.Form1.resources
